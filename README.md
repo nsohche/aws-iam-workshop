@@ -1,4 +1,4 @@
-# TekGlobal AWS IAM Project
+## TekGlobal AWS IAM Project
 
 ![architecture.png](./images/architecture-diagram.png)
 
